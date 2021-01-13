@@ -1,0 +1,1 @@
+This is spark code to perform agg on movies dataset using Glue job
